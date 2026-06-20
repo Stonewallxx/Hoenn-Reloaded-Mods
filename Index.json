@@ -1,0 +1,11 @@
+[
+  {
+    "uid":          "200_ExampleMod",
+    "name":         "Example Mod",
+    "version":      "1.0.0",
+    "author":       "Stonewall",
+    "description":  "An example mod for the Mod Manager.",
+    "tags":         ["Gameplay", "QoL"],
+    "download_url": "https://github.com/Stonewallxx/Hoenn-Reloaded-Mods/releases/download/Mod-Release/200_ExampleMod.rar"
+  }
+]
