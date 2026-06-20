@@ -1,11 +1,27 @@
-[
-  {
-    "uid":          "200_ExampleMod",
-    "name":         "Example Mod",
-    "version":      "1.0.1",
-    "author":       "Stonewall",
-    "description":  "An example mod for the Mod Manager.",
-    "tags":         ["Gameplay", "QoL"],
-    "download_url": "https://github.com/Stonewallxx/Hoenn-Reloaded-Mods/releases/download/Mod-Release/200_ExampleMod.rar"
-  }
+﻿[
+    {
+        "uid":  "200_ExampleMod",
+        "name":  "Example Mod",
+        "version":  "1.0.1",
+        "author":  "Stonewall",
+        "description":  "An example mod for the Mod Manager.",
+        "tags":  [
+                     "Gameplay",
+                     "QoL"
+                 ],
+        "download_url":  "https://github.com/Stonewallxx/Hoenn-Reloaded-Mods/releases/download/Mod-Release/200_ExampleMod.rar"
+    },
+    {
+        "uid":  "201_TestUpload",
+        "name":  "Test Upload",
+        "version":  "1.0.1",
+        "description":  "A minimal Test Upload for testing mod publishing.",
+        "author":  "Example Author",
+        "tags":  [
+                     "Gameplay",
+                     "QoL"
+                 ],
+        "download_url":  "https://raw.githubusercontent.com/Stonewallxx/Hoenn-Reloaded-Mods/main/201_TestUpload.zip",
+        "changelog_url":  ""
+    }
 ]
