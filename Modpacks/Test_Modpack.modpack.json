@@ -1,0 +1,18 @@
+{
+  "id": "Test_Modpack",
+  "name": "Test Modpack",
+  "version": "1.0.0",
+  "author": "Stonewall",
+  "description": "Just a test modpack for publishing purposes.",
+  "tags": [],
+  "mods": [
+    {
+      "id": "200_ExampleMod",
+      "version": ""
+    },
+    {
+      "id": "201_TestUpload",
+      "version": ""
+    }
+  ]
+}
