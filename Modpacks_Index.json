@@ -1,13 +1,16 @@
-[
-    {
-        "id":  "Test_Modpack",
-        "name":  "Test Modpack",
-        "version":  "1.0.0",
-        "description":  "Just a test modpack for publishing purposes.",
-        "author":  "Stonewall",
-        "tags":  [
+{
+    "value":  [
+                  {
+                      "id":  "Test_Modpack",
+                      "name":  "Test Modpack",
+                      "version":  "1.0.0",
+                      "description":  "Just a test modpack for publishing purposes.",
+                      "author":  "Stonewall",
+                      "tags":  [
 
-                 ],
-        "download_url":  "https://raw.githubusercontent.com/Stonewallxx/Hoenn-Reloaded-Mods/main/Modpacks/Test_Modpack.modpack.json"
-    }
-]
+                               ],
+                      "download_url":  "https://raw.githubusercontent.com/Stonewallxx/Hoenn-Reloaded-Mods/main/Modpacks/Test_Modpack.modpack.json"
+                  }
+              ],
+    "Count":  1
+}
