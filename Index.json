@@ -1,28 +1,32 @@
-[
-    {
-        "uid":  "201_TestUpload",
-        "name":  "Test Upload",
-        "version":  "1.0.1",
-        "description":  "A minimal Test Upload for testing mod publishing.",
-        "author":  "Example Author",
-        "tags":  [
-                     "Gameplay",
-                     "QoL"
-                 ],
-        "download_url":  "https://raw.githubusercontent.com/Stonewallxx/Hoenn-Reloaded-Mods/main/201_TestUpload.zip",
-        "changelog_url":  ""
-    },
-    {
-        "uid":  "200_ExampleMod",
-        "name":  "Example Mod",
-        "version":  "1.0.1",
-        "description":  "A minimal example mod demonstrating the manifest format and API usage.",
-        "author":  "Example Author",
-        "tags":  [
-                     "Gameplay",
-                     "QoL"
-                 ],
-        "download_url":  "https://raw.githubusercontent.com/Stonewallxx/Hoenn-Reloaded-Mods/main/200_ExampleMod.zip",
-        "changelog_url":  ""
-    }
-]
+{
+    "value":  [
+                  {
+                      "uid":  "201_TestUpload",
+                      "name":  "Test Upload",
+                      "version":  "1.0.1",
+                      "description":  "A minimal Test Upload for testing mod publishing.",
+                      "author":  "Example Author",
+                      "tags":  [
+                                   "Gameplay",
+                                   "QoL"
+                               ],
+                      "download_url":  "https://raw.githubusercontent.com/Stonewallxx/Hoenn-Reloaded-Mods/main/201_TestUpload.zip",
+                      "changelog_url":  ""
+                  },
+                  {
+                      "uid":  "200_ExampleMod",
+                      "name":  "Example Mod",
+                      "version":  "1.0.1",
+                      "description":  "A minimal example mod demonstrating the manifest format and API usage.",
+                      "author":  "Example Author",
+                      "tags":  [
+                                   "Outdated",
+                                   "Gameplay",
+                                   "QoL"
+                               ],
+                      "download_url":  "https://raw.githubusercontent.com/Stonewallxx/Hoenn-Reloaded-Mods/main/200_ExampleMod.zip",
+                      "changelog_url":  ""
+                  }
+              ],
+    "Count":  2
+}
