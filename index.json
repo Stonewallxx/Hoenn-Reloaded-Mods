@@ -41,6 +41,25 @@
                  }
              ],
     "profiles":  [
+                     {
+                         "id":  "test",
+                         "name":  "Test",
+                         "version":  "1.0.0",
+                         "authors":  [
 
+                                     ],
+                         "description":  "Copied from Default.",
+                         "tags":  [
+                                      "profile"
+                                  ],
+                         "reloaded_version":  "0.1.0",
+                         "profile_url":  "https://raw.githubusercontent.com/Stonewallxx/Hoenn-Reloaded-Mods/main/Profiles/test/test_1.0.0.json",
+                         "mods":  [
+                                      {
+                                          "id":  "example_mod",
+                                          "version":  "1.0.1"
+                                      }
+                                  ]
+                     }
                  ]
 }

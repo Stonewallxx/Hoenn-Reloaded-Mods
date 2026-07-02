@@ -1,0 +1,30 @@
+{
+    "format":  "RLD-code",
+    "version":  1,
+    "preset_name":  "Test",
+    "reloaded_version":  "0.1.0",
+    "profile":  {
+                    "id":  "test",
+                    "name":  "Test",
+                    "version":  1,
+                    "enabled_mods":  [
+                                         "example_mod"
+                                     ],
+                    "disabled_mods":  [
+
+                                      ],
+                    "load_order":  [
+                                       "example_mod"
+                                   ],
+                    "mod_settings":  {
+
+                                     },
+                    "notes":  "Copied from Default."
+                },
+    "mods":  [
+                 {
+                     "id":  "example_mod",
+                     "version":  "1.0.1"
+                 }
+             ]
+}
