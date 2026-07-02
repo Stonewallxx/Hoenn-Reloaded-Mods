@@ -1,0 +1,37 @@
+{
+    "version":  1,
+    "mods":  [
+                 {
+                     "id":  "example_mod",
+                     "name":  "Example Mod",
+                     "latest_version":  "1.0.0",
+                     "authors":  [
+                                     "Stonewall"
+                                 ],
+                     "description":  "A safe example mod showing the recommended Reloaded mod folder, manifest, script, asset, settings, dependency, incompatibility, and browser metadata fields.",
+                     "tags":  [
+                                  "mod",
+                                  "gameplay",
+                                  "ui",
+                                  "quality_of_life"
+                              ],
+                     "dependencies":  [
+
+                                      ],
+                     "versions":  [
+                                      {
+                                          "version":  "1.0.0",
+                                          "download_url":  "https://raw.githubusercontent.com/Stonewallxx/Hoenn-Reloaded-Mods/main/Mods/example_mod/example_mod_1.0.0.zip",
+                                          "reloaded_version":  "0.1.0",
+                                          "changelog":  "",
+                                          "dependencies":  [
+
+                                                           ]
+                                      }
+                                  ]
+                 }
+             ],
+    "profiles":  [
+
+                 ]
+}
